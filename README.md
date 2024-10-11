@@ -1,1 +1,3 @@
 # ChessBoard
+
+JavaScript,HTML & CSS
